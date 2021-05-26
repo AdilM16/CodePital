@@ -39,6 +39,7 @@
 |`CheckLinkRelation`|35€
 |`Ventoline`|40€
 |`f12+doc`|20€
-​
+
+
 # Vérification
 >Grâce à votre débugger suivé à la trace l'évolution de chacun de vos patients. Vérifier bien qu'il quitte à chaque fois la salle d'attente avant d'entrer dans le cabinet et qu'ils sortent bien du cabinet avant de laisser quelqu'un d'autre entré.
