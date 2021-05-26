@@ -1,4 +1,4 @@
-// Liste des Patients (Class) //
+// Liste des Patients et autre (Class) //
 
 class Patients {
     constructor(nom,maladie,argent,poche,etatSante,traitement){
@@ -46,8 +46,27 @@ class Semicolon extends Patients {
 };
 // 
 
-//export des patients//
+let docteur ={
+    nom : "Debugger",
+    argent : 0,
+    cabinet : ["Chat"],
+    diagnostic(){
+
+    },
+    patientIn(){
+
+    },
+    patientOut(){
+
+    }
+};
+
+//export des  et autres //
 export {Patients,Marcus,Optimus,Sangoku,DarthVader,Semicolon};
 //
 
-//
+//la liste des lieux (Class)//
+
+class Lieu {
+    constructor(nom,personnes)
+};
